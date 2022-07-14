@@ -9,6 +9,7 @@ Create 10 million artificial customers using the code housed in this repo.
 # Table of Contents
 
 | Folder | Description |
+| - | - |
 | [tf-project](https://github.com/divineloss/customer-database-project/tree/main/tf-project) | Terraform project which builds a VM in AWS Cloud to run the customer code |
 | [web-scraping](https://github.com/divineloss/customer-database-project/tree/main/web-scraping) | Python code which is used to scrape data from the internet |
 | api | Golang code using "Gorillia/Mux" for API development |
