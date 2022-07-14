@@ -18,21 +18,21 @@ Create 10 million artificial customers using the code housed in this repo.
 
 ```json
 [
-		{
-			firstname: John
-			lastname: Smith
-			age: 32
-			status: married
-			gender: male
-			income: 175000
-		},
-		{
-			firstname: Jane
-			lastname: Smith
-			age: 31
-			status: married
-			gender: female
-			income: 175000
-		},
-	]
+  {
+  	firstname: John
+  	lastname: Smith
+  	age: 32
+  	status: married
+  	gender: male
+  	income: 175000
+  },
+  {
+  	firstname: Jane
+  	lastname: Smith
+  	age: 31
+  	status: married
+  	gender: female
+  	income: 175000
+  },
+]
 ```
