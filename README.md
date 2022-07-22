@@ -37,3 +37,11 @@ Create 10 million artificial customers using the code housed in this repo.
   },
 ]
 ```
+
+# Project Status
+
+| Task | Description | Status |
+| - | - | - |
+| Fabricate fake name using name txt files | Using txt files generate it from python create fake names | In Progress |
+| Create last names | Write python script to create last names | Complete |
+| Create first names | Write python script to create first names | Complete |
