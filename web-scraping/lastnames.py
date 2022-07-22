@@ -11,5 +11,8 @@ for tr in table.find_all("tr"):
     for td in tr.find_all("td"):
         row.append(td.text)
     results.append(row)
-for row_results in results:
-    print(f"{row_results[1]}")
+with open("lastnames.txt", "w") as FILE:
+    for row_results in results:
+        if len(row_results) > 0:
+            FILE.write(f"{row_results[1]}\n")
+
