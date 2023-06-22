@@ -5,7 +5,7 @@ services:
     restart: always
     environment:
       - MYSQL_ROOT_PASSWORD=sqlpass
-      - MYSQL_DATABASE=sql
+      - MYSQL_DATABASE=cust
       - MYSQL_USER=sql
       - MYSQL_PASSWORD=sqlpass
     volumes:

@@ -1,5 +1,6 @@
 .vscode
 .DS_Store
+docker/mariadb-data
 # Local .terraform directories
 **/.terraform/*
 
