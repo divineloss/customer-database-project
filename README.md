@@ -4,7 +4,7 @@ This is a data project which utilizes data scrapped from the internet to create 
 
 # Project Objective
 
-Create 10 million artificial customers using the code housed in this repo.
+Create artificial customers using the code housed in this repo.
 
 # Table of Contents
 
