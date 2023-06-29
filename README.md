@@ -42,6 +42,6 @@ Create artificial customers using the code housed in this repo.
 
 | Task | Description | Status |
 | - | - | - |
-| Fabricate fake name using name txt files | Using txt files generate it from python create fake names | In Progress |
+| Fabricate fake name using name txt files | Using txt files generate, it from python to create fake names | Complete |
 | Create last names | Write python script to create last names | Complete |
 | Create first names | Write python script to create first names | Complete |
