@@ -3,6 +3,8 @@ from sqlalchemy import create_engine
 from sqlalchemy import text
 from person import Person
 
+
+
 ##### VARIABLES #####
 firstnames = []
 lastnames = []
