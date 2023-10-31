@@ -4,7 +4,7 @@ This is a data project which utilizes data scrapped from the internet to create 
 
 # Project Objective
 
-Create 10 million artificial customers using the code housed in this repo.
+Create artificial customers using the code housed in this repo.
 
 # Table of Contents
 
@@ -42,8 +42,12 @@ Create 10 million artificial customers using the code housed in this repo.
 
 | Task | Description | Status |
 | - | - | - |
+<<<<<<< HEAD
 | Create addresses table that is populated with randomly generated addresses in order to join with customers table | Complete |
 | Populate customers table with first and last names along with randomly generated data including age, status, gender, income | Complete |
 | Fabricate fake name using name txt files | Using txt files generate it from python create fake names | Complete |
+=======
+| Fabricate fake name using name txt files | Using txt files generate, it from python to create fake names | Complete |
+>>>>>>> 58592dac51bc4f7a9957086834297a2cd81c5c36
 | Create last names | Write python script to create last names | Complete |
 | Create first names | Write python script to create first names | Complete |
